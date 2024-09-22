@@ -33,12 +33,12 @@ npm run dev
 - client component အဖြစ်သုံးချင်တယ်ဆိုရင် file ရဲ့ ထပ်ဆုံးမှာ 'use client' ဆိုပီ သုံးရမယ်
 - /counter url
 
-# Auth with mongoose DB
+# Auth with mongoDB
     ## Recource  https://www.youtube.com/watch?v=eaQc7vbV4po&list=PLRAV69dS1uWR7KF-zV6YPYtKYEHENETyE&index=6
-- https://cloud.mongodb.com/  
+- https://cloud.mongodb.com/  cloud db create လုပ်
 - mongodb+srv://kosoe:<db_password>@cluster0.7xcvq.mongodb.net/
 - npm i axios bcryptjs jsonwebtoken nodemailer react-hot-toast mongoose 
- 
+- npm i --save-dev @types/jsonwebtoken @types/bcryptjs
 # Special File တွေရှိတယ် 
 - not-found.tsx,error.tsx etc... 
 - The path is app/not-found.tsx 
