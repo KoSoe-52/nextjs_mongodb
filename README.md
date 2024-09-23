@@ -42,3 +42,5 @@ npm run dev
 # Special File တွေရှိတယ် 
 - not-found.tsx,error.tsx etc... 
 - The path is app/not-found.tsx 
+
+## Authentication provider တွေအတွက် clerk.com မှာ အကောင့်ဖောက်ပီ အသုံးပြုနိုင်..
