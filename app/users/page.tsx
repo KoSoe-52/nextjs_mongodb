@@ -24,7 +24,7 @@ const UserPage = async () => {
         <tbody>
           {
             users.map(user => {
-             return ( <tr>
+             return ( <tr key={user.email}>
                       <td>{user.name}</td>
                       <td>{user.email}</td>
                     </tr>
